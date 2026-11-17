@@ -59,4 +59,4 @@ Public contractual and central-bank source links appear in the supplement and `s
 
 ## Availability
 
-This is a private research repository. The link does not grant access to readers or reviewers who have not been authorised. No open-source or redistribution licence is granted by this deposit. Third-party data remain governed by their respective terms.
+This is a public research repository. Readers and reviewers can access the manuscript, code and aggregate outputs without an invitation. No open-source or redistribution licence is granted by this deposit. Third-party data remain governed by their respective terms.
