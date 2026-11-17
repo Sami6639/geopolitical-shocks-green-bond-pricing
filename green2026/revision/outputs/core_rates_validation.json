@@ -1,0 +1,52 @@
+[
+  {
+    "issuer": "Australia",
+    "model": "same_rows_baseline",
+    "FWL_error": 6.938893903907228e-18
+  },
+  {
+    "issuer": "Australia",
+    "model": "local_curve_controlled",
+    "FWL_error": 1.3921155894713877e-16
+  },
+  {
+    "issuer": "Australia",
+    "model": "local_curve_and_trend",
+    "FWL_error": 5.052382123782451e-16
+  },
+  {
+    "issuer": "Australia",
+    "model": "pre_event_placebo_Feb07",
+    "FWL_error": 1.734723475976807e-16
+  },
+  {
+    "issuer": "New Zealand",
+    "model": "same_rows_baseline",
+    "FWL_error": 6.938893903907228e-17
+  },
+  {
+    "issuer": "New Zealand",
+    "model": "local_curve_controlled",
+    "FWL_error": 1.0061396160665481e-16
+  },
+  {
+    "issuer": "New Zealand",
+    "model": "local_curve_and_trend",
+    "FWL_error": 2.498001805406602e-16
+  },
+  {
+    "issuer": "New Zealand",
+    "model": "pre_event_placebo_Feb07",
+    "FWL_error": 1.0182826803983858e-15
+  },
+  {
+    "issuer": "Australia",
+    "model": "external_yield_implied_clean_local_curves",
+    "FWL_error": 1.0820337681405334e-16
+  },
+  {
+    "issuer": "New Zealand",
+    "model": "external_yield_implied_clean_local_curves",
+    "FWL_error": 4.163336342344337e-17
+  }
+]

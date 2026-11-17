@@ -1,0 +1,430 @@
+[
+  {
+    "DOI": "10.1016/j.jimonfin.2024.103218",
+    "title": [
+      "Geopolitical turmoil and investor green preference: Evidence from the corporate bond market"
+    ],
+    "author": [
+      {
+        "given": "Paolo",
+        "family": "Fiorillo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antonio",
+        "family": "Meles",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dario",
+        "family": "Salerno",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vincenzo",
+        "family": "Verdoliva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of International Money and Finance"
+    ],
+    "volume": "149",
+    "issue": null,
+    "page": "103218",
+    "article-number": "103218",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "published-online": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "DOI": "10.1016/j.intfin.2025.102211",
+    "title": [
+      "Pricing of green bonds: Greenium dynamics and the role of retail investors"
+    ],
+    "author": [
+      {
+        "given": "Allegra",
+        "family": "Pietsch",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dilyara",
+        "family": "Salakhova",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of International Financial Markets, Institutions and Money"
+    ],
+    "volume": "104",
+    "issue": null,
+    "page": "102211",
+    "article-number": "102211",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    },
+    "published-online": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "DOI": "10.1016/j.jbankfin.2024.107126",
+    "title": [
+      "The green corporate bond issuance premium"
+    ],
+    "author": [
+      {
+        "given": "John",
+        "family": "Caramichael",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4800-9154",
+        "authenticated-orcid": false,
+        "given": "Andreas C.",
+        "family": "Rapp",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Banking &amp; Finance"
+    ],
+    "volume": "162",
+    "issue": null,
+    "page": "107126",
+    "article-number": "107126",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "published-online": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "DOI": "10.1111/obes.12619",
+    "title": [
+      "How Large is the Sovereign Greenium?*"
+    ],
+    "author": [
+      {
+        "given": "Sakai",
+        "family": "Ando",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "IMF  Washington DC USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chenxu",
+        "family": "Fu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Tokyo  Tokyo Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9070-595X",
+        "authenticated-orcid": false,
+        "given": "Francisco",
+        "family": "Roch",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IMF  Washington DC USA"
+          },
+          {
+            "name": "Universidad Torcuato Di Tella  Buenos Aires Argentina"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ursula",
+        "family": "Wiriadinata",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IMF  Washington DC USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Oxford Bulletin of Economics and Statistics"
+    ],
+    "volume": "86",
+    "issue": "6",
+    "page": "1472-1483",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          11
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          11
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "DOI": "10.1016/j.irfa.2025.104772",
+    "title": [
+      "Here's the Greenium eclipsed by market-wide illiquidity in the municipal bond market"
+    ],
+    "author": [
+      {
+        "given": "Hande",
+        "family": "Ayayd\u0131n Hac\u0131\u00f6mero\u011flu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Seza",
+        "family": "Dan\u0131\u015fo\u011flu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Z. Nuray",
+        "family": "G\u00fcner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Baki Cem",
+        "family": "\u015eahin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "International Review of Financial Analysis"
+    ],
+    "volume": "109",
+    "issue": null,
+    "page": "104772",
+    "article-number": "104772",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "published-online": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "DOI": "10.1016/j.eneco.2026.109173",
+    "title": [
+      "Sovereign green bonds: Risk-mitigating sustainability instruments in emerging markets"
+    ],
+    "author": [
+      {
+        "given": "Vedanshi",
+        "family": "Nevatia",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Energy Economics"
+    ],
+    "volume": "155",
+    "issue": null,
+    "page": "109173",
+    "article-number": "109173",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "published-online": null,
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "main_tables": 5,
+  "supplement_tables": 16,
+  "abstract_words": 142,
+  "figures": 4,
+  "equations": 5,
+  "references": 25,
+  "all_reference_authors_cited": true,
+  "main_case_rows_verified": 6,
+  "joint_contrast_rows_verified": 8,
+  "obsolete_counts_absent": true,
+  "placeholders_absent": true
+}

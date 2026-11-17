@@ -1,0 +1,106 @@
+[
+  {
+    "label": "CBA Tier 2 terms",
+    "url": "https://www.commbank.com.au/content/dam/commbank-assets/about-us/capital-instruments/docs/tier-2-capital-instruments.pdf"
+  },
+  {
+    "label": "CBA covered-bond terms",
+    "url": "https://www.commbank.com.au/content/dam/commbank/about-us/group-funding/articles/CBA-EUR-118-5-CB-due-2033-FTs-EV.pdf"
+  },
+  {
+    "label": "National Grid conventional final terms",
+    "url": "https://www.nationalgrid.com/document/602136/download"
+  },
+  {
+    "label": "National Grid green final terms",
+    "url": "https://www.nationalgrid.com/document/602141/download"
+  },
+  {
+    "label": "PacifiCorp 2054 final terms",
+    "url": "https://www.sec.gov/Archives/edgar/data/75594/000110465923060913/tm2315350d3_fwp.htm"
+  },
+  {
+    "label": "PacifiCorp 2055 final terms",
+    "url": "https://www.sec.gov/Archives/edgar/data/75594/000110465924001017/tm2329358d3_fwp.htm"
+  },
+  {
+    "label": "Australian green Treasury term sheet",
+    "url": "https://www.aofm.gov.au/media/1118"
+  },
+  {
+    "label": "Australian conventional Treasury term sheet",
+    "url": "https://www.aofm.gov.au/media/962"
+  },
+  {
+    "label": "Danish green twins",
+    "url": "https://www.nationalbanken.dk/en/government-debt/funding-strategy/green-bonds"
+  },
+  {
+    "label": "New Zealand green term sheets",
+    "url": "https://debtmanagement.treasury.govt.nz/investor-resources/green-bond-term-sheets-and-related-information-memoranda"
+  },
+  {
+    "label": "New Zealand nominal term sheets",
+    "url": "https://debtmanagement.treasury.govt.nz/investor-resources/nominal-bond-term-sheets-and-related-information-memoranda"
+  },
+  {
+    "label": "Arkea extension evidence",
+    "url": "https://www.cm-arkea.com/arkea/banque/upload/docs/application/pdf/2025-05/2022-i-04_arkea_hl_sfh_2025_03_signed.pdf"
+  },
+  {
+    "label": "Swedish inflation-linked comparator specific terms",
+    "url": "https://www.riksgalden.se/contentassets/847d727863d046fe9cdacb1d81e34b61/specific-terms-sgb-il-3114.pdf"
+  },
+  {
+    "label": "Swedish nominal green issuance terms",
+    "url": "https://www.riksgalden.se/globalassets/dokument_eng/debt/green-bonds/200901-kingdom-of-sweden-10-yr-green-bond-press-release.pdf"
+  },
+  {
+    "label": "Irish government coupon and payment-date register",
+    "url": "https://www.ntma.ie/business-areas/funding-and-debt-management/government-securities/government-bonds"
+  },
+  {
+    "label": "LSEG bond pricing conventions and cash-flow fields",
+    "url": "https://developers.lseg.com/en/api-catalog/refinitiv-data-platform/refinitiv-data-platform-apis/documentation/manuals-and-guides/ipa-financial-contracts/ipa-financial-contracts---bond-contracts"
+  },
+  {
+    "label": "Intel original note",
+    "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312522213699/d390659dex44.htm"
+  },
+  {
+    "label": "EU green exchange record",
+    "url": "https://www.borsaitaliana.it/borsa/obbligazioni/mot/euro-obbligazioni/scheda/EU000A3K4C42-MOTX.html?lang=en"
+  },
+  {
+    "label": "EU conventional exchange record",
+    "url": "https://www.borsaitaliana.it/borsa/obbligazioni/mot/euro-obbligazioni/scheda/EU000A3K4DC0-MOTX.html?lang=en"
+  },
+  {
+    "label": "Dependent-wild methodology",
+    "url": "https://doi.org/10.1198/jasa.2009.tm08744"
+  },
+  {
+    "label": "RBA F2 local government yields",
+    "url": "https://www.rba.gov.au/statistics/tables/xls/f02d.xlsx"
+  },
+  {
+    "label": "RBA F16 instrument yields",
+    "url": "https://www.rba.gov.au/statistics/tables/csv/f16-data.csv"
+  },
+  {
+    "label": "RBNZ B2 yield workbook",
+    "url": "https://rbnz.govt.nz/-/media/project/sites/rbnz/files/statistics/series/b/b2/hb2-daily-close.xlsx"
+  },
+  {
+    "label": "Additional instrument evidence CA12593CAV33",
+    "url": "https://ise-prodnr-eu-west-1-data-integration.s3-eu-west-1.amazonaws.com/202305/04c863c1-422c-4c5c-8125-54fd772585ee.pdf"
+  },
+  {
+    "label": "Additional instrument evidence XS1508566392",
+    "url": "https://finanse-arch.mf.gov.pl/documents/766655/fd2d846e-b82b-4e91-bd14-45b7a269d33d"
+  },
+  {
+    "label": "Additional instrument evidence XS1958534528",
+    "url": "https://dl.bourse.lu/dl?v=Ad1eA7yf95LO7OtKkVeNjWsDzzWm57akCLcv2kSIWznPQmi3TJcyoTWIhvwsR9%2FrnuZfWMhiRzTKYLDcS5h+0pvGjYiCLHqdOEjPG1%2FK4%2FJfYgu74+X9ZJrg4KtLUKb7O3mpINp2T9ILSeQ7GSBPcHLwJQLw6hqAAeqeILWOxs9Wa+vO4Wm4GO%2F9sagzlNjo | https://www.jpx.co.jp/english/equities/products/tpbm/announcement/detail/b5b4pj0000028lze-att/b5b4pj0000028m13.pdf"
+  }
+]

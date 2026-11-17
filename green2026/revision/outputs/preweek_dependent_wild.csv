@@ -1,0 +1,4 @@
+lags,draws,statistic,p,mc_se,scope
+3,9999,1.6357776183658437,0.4338,0.004955981840160434,conditional_on_observed_issuer_basket
+7,9999,1.5040961223538643,0.5056,0.004999686390164887,conditional_on_observed_issuer_basket
+10,9999,1.4719447487005193,0.5092,0.004999153528348574,conditional_on_observed_issuer_basket

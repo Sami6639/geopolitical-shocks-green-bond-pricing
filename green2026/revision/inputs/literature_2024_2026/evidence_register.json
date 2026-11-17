@@ -1,0 +1,69 @@
+{
+  "checked_on": "2026-11-17",
+  "entries": [
+    {
+      "authors": "Fiorillo et al.",
+      "year": 2024,
+      "doi": "10.1016/j.jimonfin.2024.103218",
+      "status": "journal",
+      "primary_source": "https://www.sciencedirect.com/science/article/pii/S0261560624002055",
+      "use_in_manuscript": "Corporate geopolitical risk and greenium; differs from an event-window relative-price estimand."
+    },
+    {
+      "authors": "Caramichael and Rapp",
+      "year": 2024,
+      "doi": "10.1016/j.jbankfin.2024.107126",
+      "status": "journal",
+      "primary_source": "https://www.sciencedirect.com/science/article/pii/S0378426624000463",
+      "use_in_manuscript": "Primary corporate issuance premium; cited to distinguish issuance pricing from secondary repricing."
+    },
+    {
+      "authors": "Ando et al.",
+      "year": 2024,
+      "doi": "10.1111/obes.12619",
+      "status": "journal",
+      "primary_source": "https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12619",
+      "use_in_manuscript": "Sovereign issuance greenium, approximately 4 bp advanced and 11 bp emerging economies."
+    },
+    {
+      "authors": "Pietsch and Salakhova",
+      "year": 2025,
+      "doi": "10.1016/j.intfin.2025.102211",
+      "status": "journal",
+      "primary_source": "https://www.banque-france.fr/en/publications-and-statistics/publications/pricing-green-bonds-greenium-dynamics-and-role-retail-investors",
+      "use_in_manuscript": "Matched euro-area bonds; changing greenium, retail holdings and interest-rate conditions."
+    },
+    {
+      "authors": "Ayaydın Hacıömeroğlu et al.",
+      "year": 2026,
+      "doi": "10.1016/j.irfa.2025.104772",
+      "status": "journal",
+      "primary_source": "https://open.metu.edu.tr/handle/11511/117858",
+      "use_in_manuscript": "Municipal issuance greenium and market-wide liquidity. Journal year 2026 despite DOI string 2025."
+    },
+    {
+      "authors": "Nevatia",
+      "year": 2026,
+      "doi": "10.1016/j.eneco.2026.109173",
+      "status": "journal",
+      "primary_source": "https://doi.org/10.1016/j.eneco.2026.109173",
+      "use_in_manuscript": "Sovereign sustainability instruments; advanced versus emerging/developing heterogeneity. Publisher lookup uses DOI as authoritative locator."
+    },
+    {
+      "authors": "Panizza et al.",
+      "year": 2025,
+      "doi": null,
+      "status": "working paper",
+      "primary_source": "https://repec.graduateinstitute.ch/pdfs/Working_papers/HEIDWP16-2025.pdf",
+      "use_in_manuscript": "Matched sovereign/quasi-sovereign securities and legal environmental commitments; not peer-reviewed journal evidence."
+    },
+    {
+      "authors": "Brichetti et al.",
+      "year": 2026,
+      "doi": "10.18235/0014596",
+      "status": "working paper",
+      "primary_source": "https://publications.iadb.org/en/when-sovereign-greenium-scarcity-price-green-supply-market-depth-and-cross-country-evidence",
+      "use_in_manuscript": "Relative green supply and market depth; distinguishes market structure from issuance-event effects. October 2026 working paper."
+    }
+  ]
+}
