@@ -1,8 +1,6 @@
-# Geopolitical Shocks and Green Bond Pricing
+# Green Bond Pricing During Geopolitical Stress: Evidence from International Bond Pairs
 
-## Cross-Country Evidence from News and Markets
-
-Research materials accompanying the manuscript. Current revision: 17 November 2026.
+Research materials accompanying the manuscript. Current revision: 19 November 2026.
 
 ## Manuscript
 
@@ -16,7 +14,7 @@ The current article contains five editable, centred equations with right-aligned
 
 The study combines sampled geopolitical news, an international issuer-matched bond panel, contractual verification, local yield curves and yield-implied price reconciliation around the 28 February 2026 escalation involving Iran. The market window is 14 January–3 April 2026.
 
-The broad panel contains 74 pairs, seven currencies and 4,207 pair-date observations. Its relative quoted-price coefficient is approximately −0.092 log percentage points. Identical-sample curve conditioning reduces the EUR/USD estimate. Detailed Australian and New Zealand sovereign cases display different conditional patterns. A joint model directly estimates their difference; its direction is stable across the reported grid, while precision depends on calendar and covariance choices.
+The broad panel contains 74 pairs, seven currencies and 4,207 pair-date observations. Its relative quoted-price coefficient is approximately −0.092 log percentage points. For the 36 EUR/USD pairs with maturity gaps of at most six months, the post coefficient moves from −0.1731 to −0.0243 log percentage points after curve adjustment on the same 2,032 pair-date observations. Table 4 and Table S3 report the estimates. The analysis script `analyze_revision.py` writes the two aggregate post coefficients, intervals, p values and sample hashes to [six_month_common.csv](green2026/revision/outputs/six_month_common.csv). Detailed Australian and New Zealand sovereign cases display different conditional patterns. A joint model directly estimates their difference; its direction is stable across the reported grid, while precision depends on calendar and covariance choices.
 
 These are event-associated price comparisons and conditional case diagnostics, not a generally identified causal green-label penalty. Price basis points are not yield basis points. See the article and supplement for the complete estimates and inference assumptions.
 

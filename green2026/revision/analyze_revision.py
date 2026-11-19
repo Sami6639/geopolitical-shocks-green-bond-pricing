@@ -174,7 +174,12 @@ for currency,lab in [('Euro','eu'),('US Dollar','us')]:
     for var in ['r2','slope']:c[lab+'_'+var]=c[var]*c.RCSCurrencyLeaf.eq(currency)
 curve_terms=['post','eu_r2','eu_slope','us_r2','us_slope']
 validations=[]
-for label,z in [('revised_common',c),('screened_common',c[c.contract_status.ne('ineligible')])]:
+common_samples = {
+    'revised_common': c,
+    'screened_common': c[c.contract_status.ne('ineligible')],
+    'six_month_common': c[c.maturity_gap_years.le(0.5)],
+}
+for label, z in common_samples.items():
     fit(z,label+'_baseline');result=fit(z,label+'_curves',curve_terms)
     if result:
         q,X,y,beta=result
@@ -183,9 +188,11 @@ for label,z in [('revised_common',c),('screened_common',c[c.contract_status.ne('
         validations.append(dict(test=label,within_post=float(beta[0]),dummy_post=float(b[1]),absolute_difference=float(abs(beta[0]-b[1]))))
 
 models=pd.DataFrame(out);models.to_csv(O/'revised_models.csv',index=False)
-for label in ['revised_common','screened_common']:
+for label in common_samples:
     z=models[models.test.isin([label+'_baseline',label+'_curves'])&models.term.eq('post')]
     assert z.row_hash.nunique()==1 and z.n.nunique()==1
+six_month_post = models[models.test.str.startswith('six_month_common_') & models.term.eq('post')]
+six_month_post.to_csv(O/'six_month_common.csv', index=False)
 assert all(x['absolute_difference']<1e-8 for x in validations)
 main.to_parquet(O/'revised_panel_PRIVATE.parquet',index=False);c.to_parquet(O/'curve_panel_PRIVATE.parquet',index=False)
 daily=main.groupby('date').agg(pairs=('pair','nunique'),mean_gap=('reconstructed_gap','mean'));daily.to_csv(O/'daily.csv')
